@@ -34,47 +34,7 @@ MediBuddy's backend incorporates a K-Nearest Neighbors machine learning model an
 - Integrating Google Gemini to generate custom AI reports.
 
 ## Libraries Used
-## Web Development
-- Flask: A lightweight WSGI web application framework in Python.
-- Flask_SQLAlchemy: Flask extension for SQLAlchemy, a SQL toolkit and Object-Relational Mapper.
-- render_template: Flask function for rendering HTML templates.
-- request: Flask module for handling HTTP requests.
-- redirect, url_for: Flask functions for URL redirection.
-- jsonify: Flask function for creating JSON responses.
-- make_response: Flask function for creating custom responses.
-- send_file: Flask function for sending files as responses.
 
-## Data Processing and Machine Learning
-- pandas: Library providing data structures and data analysis tools for Python.
-- numpy: Library for numerical computing in Python.
-- StandardScaler: Scikit-learn class for standardizing features by removing the mean and scaling to unit variance.
-- DecisionTreeClassifier: Scikit-learn class for decision tree classification.
-- MLPClassifier: Scikit-learn class for multi-layer perceptron classifier.
-
-## Date and Time
-- datetime: Module providing classes for manipulating dates and times.
-
-## File Handling
-- csv: Module providing classes and functions for reading and writing CSV files.
-- os: Module providing functions for interacting with the operating system.
-
-## AI and Natural Language Processing
-- google.generativeai: Package for accessing Google's Generative AI models.
-
-## Database
-- SQLAlchemy: SQL toolkit and Object-Relational Mapper (ORM) for Python.
-
-## PDF Generation
-- reportlab: Library for creating PDF documents in Python.
-- canvas: Module for drawing 2D graphics on a PDF.
-- BytesIO: Module for handling binary data in memory.
-
-## Miscellaneous
-- IntegrityError: Exception raised when a database integrity constraint is violated.
-- random: Module providing functions for generating random numbers.
-- letter: Size specification for US letter paper size.
-- inch: Unit of length for specifying dimensions.
-- simpleSplit: Function for splitting text into lines for PDF generation.
 ### Web Development
 - Flask: A lightweight WSGI web application framework in Python.
 - Flask_SQLAlchemy: Flask extension for SQLAlchemy, a SQL toolkit and Object-Relational Mapper.
