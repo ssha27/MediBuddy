@@ -2,7 +2,7 @@
 
 ## Inspiration
 
-MediBuddy is inspired by the serious issue of misdiagnosis in healthcare, which leads to approximately 250,000 deaths in the United States each year. Despite extensive training, healthcare professionals still make errors, resulting in incorrect treatment plans or the overlooking of major diseases. Leveraging machine learning models, MediBuddy analyzes symptoms, body measurements, and other inputs to provide accurate, personalized suggestions on diagnoses and treatments based on previous case data. The aim is to reduce misdiagnosis rates by utilizing a large database of medical history to produce accurate predictions, ultimately complementing the work of physicians.
+MediBuddy is inspired by the serious issue of medical errors in healthcare, which leads to approximately 250,000 deaths in the United States each year. Despite extensive training, healthcare professionals still make errors, resulting in incorrect treatment plans or the overlooking of major diseases. Leveraging machine learning models, MediBuddy analyzes symptoms, body measurements, and other inputs to provide accurate, personalized suggestions on diagnoses and treatments based on previous case data. The aim is to reduce misdiagnosis rates by utilizing a large database of medical history to produce accurate predictions, ultimately complementing the work of physicians.
 
 ## What it does
 
