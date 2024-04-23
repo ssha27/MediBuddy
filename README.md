@@ -76,3 +76,14 @@ MediBuddy's backend incorporates a K-Nearest Neighbors machine learning model an
 - letter: Size specification for US letter paper size.
 - inch: Unit of length for specifying dimensions.
 - simpleSplit: Function for splitting text into lines for PDF generation.
+
+### Image Gallery
+![image](https://github.com/aroy23/MediBuddy/assets/83829580/d4e782fc-8c62-456d-8e15-ca79cf1617eb)
+![image](https://github.com/aroy23/MediBuddy/assets/83829580/e08e594d-afa7-46fc-b037-e3ed7456a369)
+![image](https://github.com/aroy23/MediBuddy/assets/83829580/0cf96739-6a5f-49eb-87c9-38c6b0fb23ac)
+![image](https://github.com/aroy23/MediBuddy/assets/83829580/2208532e-5a16-4bcc-b961-fd43c91f815a)
+
+
+
+
+
