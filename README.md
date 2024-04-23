@@ -6,7 +6,7 @@ MediBuddy is inspired by the serious issue of medical errors in healthcare, whic
 
 ## What it does
 
-MediBuddy is a website powered by a machine learning disease prediction model aimed at solving the problem of diagnostic errors in healthcare. The machine learning model provides confident inferences about whether a patient likely has a certain condition, acting as a virtual physician’s assistant to help reinforce diagnoses and compile personalized reports of recommendations for patients. These inferences are then fed to Google's Gemini to generate a report that offers recommendations regarding diet, exercise, and other habits to treat or prevent specific conditions.
+MediBuddy is a website powered by a machine learning disease prediction model aimed at solving the problem of diagnostic errors in healthcare. The machine learning model provides confident inferences about whether a patient likely has a certain condition given input from a healthcare professional, acting as a virtual physician’s assistant to help reinforce diagnoses and compile personalized reports of recommendations for patients. These inferences are then fed to Google's Gemini to generate a report that offers recommendations regarding diet, exercise, and other habits to treat or prevent specific conditions.
 
 ## How we built it
 
